@@ -1,1 +1,6 @@
 #codechef learning phase 1-python
+first task is to print a number in python!
+print(12)
+printing text
+print("this is a text")
+--task done for today!
